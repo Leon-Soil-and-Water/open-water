@@ -29,9 +29,10 @@ A visual inventory, in the form of an interactive map, of water quality in Talla
   - Parcel Shapefile
 - Florida Dept of Agriculture
 - Florida Dept of Environmental Protection
+  - Data: WIN
   - Don’t do public testing but can offer instructions/demo
 - UF/IFAS Extension Office
   - Don’t do public testing but can offer instructions/demo
 - Florida Lake Watch
-  - does WQ testing for these water resources: ______.   
+  - does WQ testing, but it's a 6-month turn-around time   
 
