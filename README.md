@@ -2,7 +2,7 @@
 There's no existing public-facing water quality testing program available to private-property owners in Leon County. 
 
 #### Solution
-Leon's Soil and Water Conservation District partners with the FAMU-FSU College of Engineering to develop a free or low-cost water quality testing program for private-property owners in Leon County, prioritizing residents within a 1-mi radius of impared water bodies. 
+Leon's Soil and Water Conservation District partners with the FAMU-FSU College of Engineering to develop a free or low-cost water quality testing program for private-property owners in Leon County, prioritizing residents within a 1-mi radius of impaired water bodies. 
 
 #### Test Cases
 1. A property-owner in Capitola with the St. Marks River running through their backyard.
