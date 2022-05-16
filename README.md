@@ -35,5 +35,5 @@ A visual inventory, in the form of an interactive map, of water quality in Talla
   - Don’t do public testing but can offer instructions/demo
 - Florida Lake Watch
   - does WQ testing, but it's a 6-month turn-around time
-  - [Leon County Lake Report](https://lakewatch.ifas.ufl.edu/media/lakewatchifasufledu/reports/lake-reports/Leon-County-Lake-Report.pdf) (data is accessible via FDEP's WIN)   
+  - [Leon County Lake Report](https://lakewatch.ifas.ufl.edu/media/lakewatchifasufledu/reports/lake-reports/Leon-County-Lake-Report.pdf) (data is accessible via [FDEP's WIN](https://prodenv.dep.state.fl.us/DearSpa/public/loadBothCriteria.action))   
 
